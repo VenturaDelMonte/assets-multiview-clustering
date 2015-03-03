@@ -1,0 +1,16 @@
+.Rhistory
+*.pper
+.Rproj.user
+*.aux
+*.log
+*.nav
+*.out
+*.pdf
+*.snm
+*.gz
+*.toc
+*.vrb
+*.orig
+NAMESPACE
+*.Rd
+*.db
